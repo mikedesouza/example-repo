@@ -1,2 +1,4 @@
 # example  repository 
-his is a same repo , hello world
+This is a same repo , hello coders
+
+This is a second change 
